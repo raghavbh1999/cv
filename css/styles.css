@@ -1,0 +1,26 @@
+<style>
+body{
+  background-color: #E3F3F7;
+}
+hr{background-color: #E3F3F7;
+    border-style: none;
+     border-top-style: dotted;
+     width: 10%;
+     border-color: grey;
+     border-width: 5px;
+     }
+h1{
+  color: #66BFBF;
+  font-family: cursive;
+
+}
+h3{
+  color: #66BFBF;
+  font-family: cursive;
+}
+h4{
+  color: #66BFBF;
+  font-family: cursive;
+}
+
+</style>
